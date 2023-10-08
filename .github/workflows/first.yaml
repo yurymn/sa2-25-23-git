@@ -1,4 +1,4 @@
-name: Test Git Action
+name: Test Git Action2
 
 on:
   push:
